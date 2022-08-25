@@ -1,0 +1,55 @@
+.logincon{
+    background-color: hsl(0, 0%, 91%);
+height: 100vh;
+}
+p{
+    color: #2D2D2D
+}
+.bg{
+    background-image: url("./bg.JPEG");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.textsec{
+    color: #32afb5;
+}
+.btd{
+    background-color: #32afb5;
+    border: #32afb5;
+    width: 35vh;
+    margin-top: 10vh;
+    margin-left: 15%;
+}
+.btd :hover{
+    background-color: #0e979e;
+    border: #0e979e;
+}
+.card{
+    height: 80vh;
+}
+.card-body{
+    
+    position:relative;
+    display: block;
+}
+img{
+    width: 70%;
+
+}
+Form{
+    padding-top: 2rem;
+}
+.forgot-password a{
+    position: absolute;
+ 
+    right: 0;
+    
+}
+a{
+    text-decoration: none;
+    color: #32afb5;
+}
+.forgot-password{
+    position: relative;
+}
